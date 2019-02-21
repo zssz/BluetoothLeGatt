@@ -1,0 +1,4 @@
+#Thu Feb 14 12:44:45 EET 2019
+base.0=/Users/zsombor/Development/BugreportDemos/BluetoothLeGatt/Application/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
